@@ -7,10 +7,17 @@ In this machine learning project, we aim to build a predictive model that estima
 We will use a dataset containing information about students’ math scores along with the following features:
 
 Gender: Binary (Male/Female)
+
 Ethnicity: Categorical (e.g., Asian, African American, Hispanic, etc.)
+
 Parental Level of Education: Categorical (e.g., High School, Bachelor’s Degree, Master’s Degree, etc.)
+
+Lunch: having lunch before test (standard or free/reduced)
+
 Test Preparation Course: Binary (Yes/No)
+
 Reading Score: Continuous (scaled score)
+
 Writing Score: Continuous (scaled score)
 
 ## Steps in the Project
